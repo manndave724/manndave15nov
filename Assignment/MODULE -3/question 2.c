@@ -1,4 +1,4 @@
-WAP to find area of circle, rectangle and triangle 
+//WAP to find area of circle, rectangle and triangle 
 
 #include<stdio.h>
 #include<math.h>
