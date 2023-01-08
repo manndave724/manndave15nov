@@ -9,13 +9,14 @@ class sample
 		
 		sample()
 		{
-			cout<<"\n\nDeafult Constructor called.";
+		
+			cout<<"\nDeafult Constructor called.";
 			
 		}
 		
 		sample (string f,string l,int a)
 		{
-			cout<<"\n\nparamerterized constructor called.";
+			cout<<"\nparamerterized constructor called.";
 			fname = f;
 			lname = l;
 			age =a;
@@ -24,7 +25,7 @@ class sample
 		
 		sample(const sample &obj)
 		{
-			cout<<"\n\n\ncpoy constructor called.";
+			cout<<"\n\ncpoy constructor called.";
 			fname = obj.fname;
 			lname =obj.lname;
 			age = obj.age;
