@@ -1,3 +1,5 @@
+Que 1. What do you understand By Database ? What is Normalization?
+
 ->A database is an organized collection of structured information,
   or data, typically stored electronically in a computer system.
 
@@ -150,3 +152,6 @@ Que 9. What is trigger and how to create a Trigger in SQL?
    on [table_name]  
    [for each row]  
    [trigger_body]
+__________________________________________________________________________________________
+
+
