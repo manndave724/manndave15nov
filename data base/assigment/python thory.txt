@@ -1,0 +1,266 @@
+what is program?
+ it is a set of instructions
+ 
+ what is programing?
+	to create a program,we use programing.
+	
+types of programing languages:-
+
+(1) low level language:- machine language 0 and 1(Binary value)
+(2) high level language:- c,c++,python,java,php,etc,-human understable form
+
+SDLC:- software development life cycle
+
+1) requirement gathering 
+
+2) Analysis
+
+3)designing--frontend(HTML,CSS,JS,reactjs,etc.)
+
+4)coading-- backend(python,java,php,etc)
+
+5)testing-- 
+
+6)maintainence--
+
+compiler:- it translates code from high level language to low level language.
+--> it read whole code at once and then give error
+--> c,c++
+
+interpreter:-
+--> it reads the code line by line and then give error 
+--> python,java,etc.
+
+whatis python?
+--> python is a interpreted,object oriented and high level programing language
+
+uses and applications of python:-
+1) web applications :-
+
+2) desktop applications:-
+
+3) machine learning 
+
+4)artificial intelligence 
+
+5) data science/ data analysis
+
+features or benefits of python:-
+1) Easy syntax
+
+2) fast
+
+3) easy to use 
+
+Escape sequence:-
+
+1)\n--new line 
+2)\t--tab(4 spaces)
+3)\b--backspace
+
+datatypes and variables:-
+Datatypes:-
+		integer-Without point-78
+		float-with point--78.56
+		boolean-True and false
+		string-"manav"
+		complex-56j
+		
+variabels:- to store a value
+		    a=79
+			b=89
+			manav=89.99
+			
+rules of variabels:-
+ 
+ 1)variabels should not contain keywords:- int=67x
+ 2)variabels should not start with numbers:- --> invalid :-1mun x
+											 --> valid :-numbers2
+											 
+ 3)variabels should not contain white spaces:- no of balls x
+											   no_of_balls_x
+											   
+ 4)variabels should start with a-z or A-Zor_
+ 
+ dynamic -- input()--user input
+ 
+ oprators:- to perform the oprations between the two operands,a+b
+ 
+ types of oprators
+ 1)arithmatic oprators:- +,-,*,/,%
+ 
+ 2) assiment oprators:- =,+=,-=,*=,/=,%=
+ 
+ 3)conditional or relational oprators:- ==
+	boolean valuse:- true and false 
+	
+4) logical oprators:- 
+-> logical and(&&) :- returns true if both the statements were true 
+
+logical OR:- returns true if one of the statements were true 
+
+logical NOT:- it reverse the result, it returns false if both the statements were true 
+
+5) membership oprators:- in,not in 
+
+Conditional Statements:-
+
+1) if statement
+2) if else statement
+3) elif statement or if elif ladder
+
+
+syntax:-
+
+	if condition:
+		statement
+	elif condition:
+		statement
+	else:
+		statement
+
+Task:- Write a python program to check if the 
+given number is positive,negative or zero
+
+Task:- Write a python program to take the name of 
+a person and check if he is eligible to vote or 
+not.
+
+
+Control Structures:-
+
+Loops in Python:-
+To execute a statement repeatedly
+
+Types of Loops:-
+
+1) For Loop
+--> Nested For Loop
+
+2) While Loop
+
+
+range()- To find the range between the numbers.
+
+range(starting range,ending range,jump)
+
+
+
+Task:- Write a python program to check whether the
+given letter is vowel or not.
+
+
+Task:- Write a python program to check the given
+year is leap year or not.
+
+Task:-Write a python program to check whether the
+given number is divisible by 5 and 11.
+
+
+Variables and Datatypes
+
+int
+str
+float
+bool
+complex
+
+user input-- input
+
+print- ''
+       ""
+       """
+
+type()
+
+sep()
+
+escape sequence-
+\n,\b,\t
+
+format - To form a well structure format of sentence
+
+casting
+
+Operators in Python:-
+
+To perform Operations between two Operands
+
+a + b
+
+Types of Operators:-
+
+1) Arithmetic Operators:-
++
+-
+*
+/
+%
+
+2) Assignment Operators:-
+=
++=
+-=
+*=
+/=
+%=
+
+3) Conditional or Relation Operators:-
+==
+>
+<
+>=
+<=
+!=
+
+Output-- Boolean values -- True or False
+
+4) Logical Operators:-
+
+Logical AND-- Returns true if both the statements were true
+ and
+
+Logical OR-- Returns true if one of the statements were true
+ or
+
+Logical NOT-- It reverse the result,it returns false if both
+the statements were true
+
+5) Membership Operators-- list
+
+	in,not in
+
+	Task:- Write a python program to swap two numbers
+	a=56
+	b=78
+
+	a=78
+	b=56
+
+ Conditional Statements in python:-
+
+	1) if
+	2) if else
+	3) elif
+
+	1) if:-
+	syntax:-
+	if condition:
+		True statement
+
+	2) if else
+	syntax:-
+	if condition:
+		True statement
+	else:
+		False statement
+
+	Task:- Write a python program to check the given number
+	       is even or odd
+
+ Even- 2,4,6,8,10,12
+	num%2==0
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
